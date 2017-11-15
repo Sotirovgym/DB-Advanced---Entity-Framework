@@ -8,7 +8,7 @@ namespace P03_FootballBetting.Data.Models
 
         public Result Prediction { get; set; }
 
-        public DateTime Datetime { get; set; }
+        public DateTime DateTime { get; set; }
 
         public decimal Amount { get; set; }
 
